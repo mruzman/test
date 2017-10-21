@@ -1,4 +1,4 @@
-package mruzman.errornotifier;
+package air.errornotifier;
 
 import org.junit.Test;
 
