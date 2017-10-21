@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:10:5-26:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\mgrguric\.android\build-cache\558807e020bf0110d30983e1da5bcba0eb0c4590\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mgrguric\.android\build-cache\b6587c9fbf0d011725c27af8913b313084e48daf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mgrguric\.android\build-cache\f3265b163185d169876ad98dcbd157b228a2213e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mgrguric\.android\build-cache\e3266c8679dc2cedf0405ff3c02146af6d13ca7f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\mgrguric\.android\build-cache\61d15285bdc558e770574db96f3830d28e7771cd\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mgrguric\.android\build-cache\95ce1d668601c41c358269789e2459b2284c8fc7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mgrguric\.android\build-cache\6ad126133f84bac756aa1cc6e4843fe311b1a455\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mgrguric\.android\build-cache\97fb4131af57e04b54a35644d136393fb25bb379\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mgrguric\.android\build-cache\af7cad4edbb0c1b7a4bdcda2f9c4376a8a26a661\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mgrguric\.android\build-cache\6d4bed61322de27b0155e9959c55bda926b3bf49\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mgrguric\.android\build-cache\dfd07b0977b8b633959a9dc9806b33b272f20942\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:16:9-40
+activity#air.errornotifier.LoginActivity
+ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:18:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\mgrguric\.android\build-cache\558807e020bf0110d30983e1da5bcba0eb0c4590\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mgrguric\.android\build-cache\b6587c9fbf0d011725c27af8913b313084e48daf\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mgrguric\.android\build-cache\f3265b163185d169876ad98dcbd157b228a2213e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mgrguric\.android\build-cache\e3266c8679dc2cedf0405ff3c02146af6d13ca7f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\mgrguric\.android\build-cache\d59292009e23d0edb0f14737d9ae64fed2101203\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\mgrguric\.android\build-cache\61d15285bdc558e770574db96f3830d28e7771cd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mgrguric\.android\build-cache\95ce1d668601c41c358269789e2459b2284c8fc7\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mgrguric\.android\build-cache\6ad126133f84bac756aa1cc6e4843fe311b1a455\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mgrguric\.android\build-cache\97fb4131af57e04b54a35644d136393fb25bb379\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mgrguric\.android\build-cache\af7cad4edbb0c1b7a4bdcda2f9c4376a8a26a661\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mgrguric\.android\build-cache\6d4bed61322de27b0155e9959c55bda926b3bf49\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mgrguric\.android\build-cache\dfd07b0977b8b633959a9dc9806b33b272f20942\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\mgrguric\.android\build-cache\558807e020bf0110d30983e1da5bcba0eb0c4590\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\ErrorNotifier\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\mgrguric\.android\build-cache\558807e020bf0110d30983e1da5bcba0eb0c4590\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mgrguric\.android\build-cache\b6587c9fbf0d011725c27af8913b313084e48daf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mgrguric\.android\build-cache\f3265b163185d169876ad98dcbd157b228a2213e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mgrguric\.android\build-cache\e3266c8679dc2cedf0405ff3c02146af6d13ca7f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\mgrguric\.android\build-cache\d59292009e23d0edb0f14737d9ae64fed2101203\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\mgrguric\.android\build-cache\61d15285bdc558e770574db96f3830d28e7771cd\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mgrguric\.android\build-cache\95ce1d668601c41c358269789e2459b2284c8fc7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mgrguric\.android\build-cache\6ad126133f84bac756aa1cc6e4843fe311b1a455\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mgrguric\.android\build-cache\97fb4131af57e04b54a35644d136393fb25bb379\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mgrguric\.android\build-cache\af7cad4edbb0c1b7a4bdcda2f9c4376a8a26a661\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mgrguric\.android\build-cache\6d4bed61322de27b0155e9959c55bda926b3bf49\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mgrguric\.android\build-cache\dfd07b0977b8b633959a9dc9806b33b272f20942\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\mgrguric\.android\build-cache\558807e020bf0110d30983e1da5bcba0eb0c4590\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\mgrguric\.android\build-cache\558807e020bf0110d30983e1da5bcba0eb0c4590\output\AndroidManifest.xml:26:9-47
