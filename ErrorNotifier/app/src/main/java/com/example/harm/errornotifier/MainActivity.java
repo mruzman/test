@@ -13,5 +13,11 @@ public class MainActivity extends AppCompatActivity {
         //novi komentar
 
 
+
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
     }
 }
